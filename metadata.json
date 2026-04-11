@@ -1,0 +1,5 @@
+{
+  "name": "NeonLens",
+  "description": "A centralized, dark-futuristic platform for AI artists to showcase generated images and share the prompts that created them.",
+  "requestFramePermissions": []
+}
